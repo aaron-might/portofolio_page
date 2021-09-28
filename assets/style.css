@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner {
+    background-color: cornsilk;
+    height: 80vh;
+    min-height: 600px;
+}
